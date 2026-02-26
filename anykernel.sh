@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string=Kakegurui masho by Hanifz99
 do.devicecheck=1
 do.cleanup=1
 do.cleanuponabort=0
